@@ -1,6 +1,6 @@
 ---
 author: bandit
-pubDatetime: 2024-04-09T
+pubDatetime: 2024-01-04T09:30:41.816Z
 title: New To Astro
 slug: "new-to-astro"
 featured: true
